@@ -6,5 +6,5 @@
 * [Exploring Scala Macros](http://blog.echo.sh/2013/11/04/exploring-scala-macros-map-to-case-class-conversion.html)
 * [Asynchronous Programming and Scala](https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html)
 * [Types and Functions](https://bartoszmilewski.com/2014/11/24/types-and-functions/)
-* [Scala and Cake Patterns and the Problem](https://gist.github.com/aappddeevv/8419494)
+* [Scala, Cake Patterns and the Problem](https://gist.github.com/aappddeevv/8419494)
 * [Composing Service Layers in Scala](https://gist.github.com/aappddeevv/8509607)
