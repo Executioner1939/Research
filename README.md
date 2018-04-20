@@ -9,3 +9,4 @@
 * [Scala, Cake Patterns and the Problem](https://gist.github.com/aappddeevv/8419494)
 * [Composing Service Layers in Scala](https://gist.github.com/aappddeevv/8509607)
 * [An ode to the Kind-Projector and Partial-Unification](https://www.ctheu.com/2018/04/12/an-ode-to-the-kind-projector-and-to-the-partial-unification-of-scala/)
+* [Secure Password Hashing](https://security.blogoverflow.com/2013/09/about-secure-password-hashing/)
