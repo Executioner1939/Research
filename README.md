@@ -1,6 +1,7 @@
 # Reading
 
 ## April
+### Reading
 * [Rethinking MonadError](https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html)
 * [Creating a Recursive Descent Parser](http://knuth.luther.edu/~leekent/tutorials/ll1.html)
 * [Exploring Scala Macros](http://blog.echo.sh/2013/11/04/exploring-scala-macros-map-to-case-class-conversion.html)
@@ -14,3 +15,7 @@
 * [The v28 Android Design Support Library](https://medium.com/exploring-android/exploring-the-v28-android-design-support-library-2c96c6031ae8)
 * [Battle of the Tokenizers](http://demeranville.com/battle-of-the-tokenizers-delimited-text-parser-performance/)
 * [Towards Scala 3](https://scala-lang.org/blog/2018/04/19/scala-3.html)
+
+## May
+### Videos
+* [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
