@@ -1,5 +1,3 @@
-# Reading
-
 ## April
 ### Reading
 * [Rethinking MonadError](https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html)
