@@ -15,6 +15,8 @@
 * [Towards Scala 3](https://scala-lang.org/blog/2018/04/19/scala-3.html)
 
 ## May
+### Reading
+* [Macros: the Plan for Scala 3](https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
