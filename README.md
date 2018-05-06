@@ -1,5 +1,5 @@
 ## April
-### Reading
+### Articles
 * [Rethinking MonadError](https://typelevel.org/blog/2018/04/13/rethinking-monaderror.html)
 * [Creating a Recursive Descent Parser](http://knuth.luther.edu/~leekent/tutorials/ll1.html)
 * [Exploring Scala Macros](http://blog.echo.sh/2013/11/04/exploring-scala-macros-map-to-case-class-conversion.html)
@@ -15,7 +15,7 @@
 * [Towards Scala 3](https://scala-lang.org/blog/2018/04/19/scala-3.html)
 
 ## May
-### Reading
+### Articles
 * [Macros: the Plan for Scala 3](https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html)
 * [The Entity Service Antipattern](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [Services by Lifecycle](http://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
