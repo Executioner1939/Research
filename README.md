@@ -20,6 +20,7 @@
 * [The Entity Service Antipattern](http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [Services by Lifecycle](http://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
 * [Evolving away from Entities](http://www.michaelnygard.com/blog/2018/04/evolving-away-from-entities/)
+* [The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
