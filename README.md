@@ -21,6 +21,10 @@
 * [Services by Lifecycle](http://www.michaelnygard.com/blog/2018/01/services-by-lifecycle/)
 * [Evolving away from Entities](http://www.michaelnygard.com/blog/2018/04/evolving-away-from-entities/)
 * [The Magpie Developer](https://blog.codinghorror.com/the-magpie-developer/)
+* [No More Transformers: High-Performance Effects in Scalaz 8](https://dzone.com/articles/no-more-transformers-high-performance-effects-in-s)
+* [Subtype type classes don't work](https://typelevel.org/blog/2016/09/30/subtype-typeclasses.html)
+* [Optimizing Tagless Final – Saying farewell to Free](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
+* [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
