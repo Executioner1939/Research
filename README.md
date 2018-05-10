@@ -25,6 +25,11 @@
 * [Subtype type classes don't work](https://typelevel.org/blog/2016/09/30/subtype-typeclasses.html)
 * [Optimizing Tagless Final – Saying farewell to Free](https://typelevel.org/blog/2017/12/27/optimizing-final-tagless.html)
 * [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
+* [Writing an Internal DSL in Scala](https://mostafa-asg.github.io/post/writing-internal-dsl-in-scala/)
+* [Phantom Types in Scala](https://blog.codecentric.de/en/2016/02/phantom-types-scala/)
+* [On Bifunctor IO and Java's Checked Exceptions](https://alexn.org/blog/2018/05/06/bifunctor-io.html)
+* [Bifunctor IO: A Step Away from Dynamically-Typed Error Handling](http://degoes.net/articles/bifunctor-io)
+* [Checked exceptions I love you, but you have to go](https://testing.googleblog.com/2009/09/checked-exceptions-i-love-you-but-you.html)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
