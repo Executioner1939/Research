@@ -34,3 +34,4 @@
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
 * [Distributed Systems In One Lesson](https://www.youtube.com/watch?v=OJwp4kroTM8)
+* [The Event Loop](https://www.youtube.com/watch?v=0IsjjMRyIF8)
