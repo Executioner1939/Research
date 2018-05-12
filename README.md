@@ -35,3 +35,4 @@
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
 * [Distributed Systems In One Lesson](https://www.youtube.com/watch?v=OJwp4kroTM8)
 * [The Event Loop](https://www.youtube.com/watch?v=0IsjjMRyIF8)
+* [The Paved PaaS To NodeJS MICROSERVICES (JavaScript @ Netflix)](https://www.youtube.com/watch?v=QcNqfvMeWow)
