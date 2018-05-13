@@ -33,6 +33,7 @@
 * [Separating Control and Data Planes in Kong](https://konghq.com/blog/separating-data-control-planes/)
 * [Announcing the Kubernetes Ingress Controller for Kong](https://konghq.com/blog/kubernetes-ingress-controller-for-kong/)
 * [Kong CE 0.13.0 released](https://konghq.com/blog/kong-ce-0-13-0-released/)
+* [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
