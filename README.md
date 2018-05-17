@@ -34,6 +34,11 @@
 * [Announcing the Kubernetes Ingress Controller for Kong](https://konghq.com/blog/kubernetes-ingress-controller-for-kong/)
 * [Kong CE 0.13.0 released](https://konghq.com/blog/kong-ce-0-13-0-released/)
 * [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
+* [Product with Serializable](https://typelevel.org/blog/2018/05/09/product-with-serializable.html)
+* [Scala Enumerations Hell](https://medium.com/@yuriigorbylov/scala-enumerations-hell-5bdba2c1216)
+* [Tagless Final Algebras and Streaming](https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html)
+* [10 Reasons to Learn Scala and FP](https://dzone.com/articles/10-reasons-to-learn-scala-and-functional-programmi?oid=facebook)
+* [Typelevel ecosystem: a high-level overview](https://blog.scalac.io/typelevel-ecosystem.html)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
