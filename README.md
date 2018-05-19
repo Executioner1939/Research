@@ -45,3 +45,4 @@
 * [Distributed Systems In One Lesson](https://www.youtube.com/watch?v=OJwp4kroTM8)
 * [The Event Loop](https://www.youtube.com/watch?v=0IsjjMRyIF8)
 * [The Paved PaaS To NodeJS Microservices](https://www.youtube.com/watch?v=QcNqfvMeWow)
+* [Brad Whittington - Getting Superbalist.com through Black Friday](https://www.youtube.com/watch?v=syDY6HCZgRo)
