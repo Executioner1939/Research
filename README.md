@@ -39,6 +39,9 @@
 * [Tagless Final Algebras and Streaming](https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html)
 * [10 Reasons to Learn Scala and FP](https://dzone.com/articles/10-reasons-to-learn-scala-and-functional-programmi?oid=facebook)
 * [Typelevel ecosystem: a high-level overview](https://blog.scalac.io/typelevel-ecosystem.html)
+* [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+* [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
+* [Why coroutines won’t work on the web](http://calculist.org/blog/2011/12/14/why-coroutines-wont-work-on-the-web/)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
