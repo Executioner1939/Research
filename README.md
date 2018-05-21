@@ -42,6 +42,8 @@
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
 * [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
 * [Why coroutines won’t work on the web](http://calculist.org/blog/2011/12/14/why-coroutines-wont-work-on-the-web/)
+* [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
+* [Enforcing a Locking Context on Variables in Scala](http://vlkan.com/blog/post/2015/09/09/enforce-locking/)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
