@@ -45,6 +45,8 @@
 * [On properly using volatile and synchronized](https://medium.com/google-developer-experts/on-properly-using-volatile-and-synchronized-702fc05faac2)
 * [Enforcing a Locking Context on Variables in Scala](http://vlkan.com/blog/post/2015/09/09/enforce-locking/)
 * [Arrays and Replication: A MongoDB Performance Pitfall](https://www.compose.com/articles/arrays-and-replication-a-mongodb-performance-pitfall/)
+* [Implicit Implications (part 1): Implicit Parameters](https://functional.works-hub.com/learn/implicit-implications-part-1-implicit-parameters-098e0)
+* [Implicit Design Patterns in Scala](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
