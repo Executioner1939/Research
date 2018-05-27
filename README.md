@@ -47,6 +47,7 @@
 * [Arrays and Replication: A MongoDB Performance Pitfall](https://www.compose.com/articles/arrays-and-replication-a-mongodb-performance-pitfall/)
 * [Implicit Implications (part 1): Implicit Parameters](https://functional.works-hub.com/learn/implicit-implications-part-1-implicit-parameters-098e0)
 * [Implicit Design Patterns in Scala](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+* [Kotlin Android development - 6 months into it](http://blog.karumi.com/kotlin-android-development-6-months-into-it/)
 * [Zero-Overhead Tree Processing with the Visitor Pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
 * [uJson: fast, flexible and intuitive JSON for Scala](http://www.lihaoyi.com/post/uJsonfastflexibleandintuitiveJSONforScala.html)
 * [So, what's wrong with SBT?](http://www.lihaoyi.com/post/SowhatswrongwithSBT.html)
