@@ -52,6 +52,8 @@
 * [uJson: fast, flexible and intuitive JSON for Scala](http://www.lihaoyi.com/post/uJsonfastflexibleandintuitiveJSONforScala.html)
 * [So, what's wrong with SBT?](http://www.lihaoyi.com/post/SowhatswrongwithSBT.html)
 * [FastParse 1.0: Past, Present & Future](http://www.lihaoyi.com/post/FastParse10PastPresentFuture.html)
+* [How Linux Programs are Executed](https://lwn.net/Articles/630727/)
+* [How Linux Programs are Executed: ELF Binaries](https://lwn.net/Articles/631631/)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
