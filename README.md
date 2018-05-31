@@ -55,6 +55,7 @@
 * [How Linux Programs are Executed](https://lwn.net/Articles/630727/)
 * [How Linux Programs are Executed: ELF Binaries](https://lwn.net/Articles/631631/)
 * [Tearing apart printf()](http://www.maizure.org/projects/printf/index.html)
+* [JWT, JWS and JWE for Not So Dummies! (Part I)](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3)
 ### Videos
 * [Concurrency Concepts in Java](https://www.youtube.com/watch?v=3_J3UZzDsgc)
 * [Microservices, Service Mesh, and CI/CD Pipelines: Making It All Work Together](https://www.youtube.com/watch?v=6L15-GyYh6I)
