@@ -70,3 +70,7 @@
 * [Uniting Church and State: FP and OO Together](https://www.youtube.com/watch?v=IO5MD62dQbI)
 * [Existential Types — Make OOP Great Again!](https://www.youtube.com/watch?v=6j5kZj17aUw)
 * [Don't trust Time](https://www.youtube.com/watch?v=ylfyezRhA5s)
+## May
+### Reading - Articles
+* [Understanding Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
+* [Bitwise Operators in C and C++](https://www.cprogramming.com/tutorial/bitwise_operators.html)
