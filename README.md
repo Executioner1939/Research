@@ -74,3 +74,7 @@
 ### Reading - Articles
 * [Understanding Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
 * [Bitwise Operators in C and C++](https://www.cprogramming.com/tutorial/bitwise_operators.html)
+* [How to conduct a good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
+* [Scala Vector operations aren't "Effectively Constant" time](http://www.lihaoyi.com/post/ScalaVectoroperationsarentEffectivelyConstanttime.html)
+* [Warts of the Scala Programming Language](http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html)
+* [Easy Parsing with Parser Combinators](http://www.lihaoyi.com/post/EasyParsingwithParserCombinators.html)
