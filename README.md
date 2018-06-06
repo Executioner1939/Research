@@ -82,3 +82,4 @@
 * [Crushing boilerplate with Scala Macros](https://medium.com/iterators/crushing-boilerplate-with-scala-macros-754860551c98)
 * [Bits of Shapeless part 1: HLists](http://enear.github.io/2016/04/05/bits-shapeless-1-hlists/)
 * [Bits of Shapeless part 2: Generic Derivation](https://enear.github.io/2016/09/27/bits-of-shapeless-2/)
+* [The Aux Pattern](http://gigiigig.github.io/posts/2015/09/13/aux-pattern.html)
