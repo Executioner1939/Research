@@ -86,3 +86,5 @@
 * [Scala 2.13 Collections Rework](https://www.scala-lang.org/blog/2017/02/28/collections-rework.html)
 * [Scala 2.13 Collections Feature Freeze](https://www.scala-lang.org/blog/2018/06/05/collections-feature-freeze.html)
 * [Understanding F[_] in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
+### Videos
+* [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
