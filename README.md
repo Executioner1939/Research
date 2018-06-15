@@ -88,5 +88,6 @@
 * [Understanding F[_] in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
+* [Functors and things using Scala](http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
