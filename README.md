@@ -89,5 +89,6 @@
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [Java Code To Byte Code - Part One](http://blog.jamesdbloom.com/JavaCodeToByteCode_PartOne.html)
 * [Functors and things using Scala](http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html)
+* [Ring Buffer: The Data Structure Behind Disruptor](https://dzone.com/articles/ring-buffer-a-data-structure-behind-disruptor)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
