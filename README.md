@@ -91,5 +91,7 @@
 * [Functors and things using Scala](http://blog.tmorris.net/posts/functors-and-things-using-scala/index.html)
 * [Ring Buffer: The Data Structure Behind Disruptor](https://dzone.com/articles/ring-buffer-a-data-structure-behind-disruptor)
 * [Keys, Credentials and Storage on Android](https://code.tutsplus.com/tutorials/keys-credentials-and-storage-on-android--cms-30827)
+* [Use the Decorator Pattern for clean I/O boundaries](http://rea.tech/use-the-decorator-pattern-for-clean-i-o-boundaries/)
+* [Referential Transparency](https://pierangeloc.github.io/blog/2018/06/01/on-RT-and-FP)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
