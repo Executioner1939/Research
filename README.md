@@ -93,5 +93,6 @@
 * [Keys, Credentials and Storage on Android](https://code.tutsplus.com/tutorials/keys-credentials-and-storage-on-android--cms-30827)
 * [Use the Decorator Pattern for clean I/O boundaries](http://rea.tech/use-the-decorator-pattern-for-clean-i-o-boundaries/)
 * [Referential Transparency](https://pierangeloc.github.io/blog/2018/06/01/on-RT-and-FP)
+* [Scala 2.13’s Collections](https://www.scala-lang.org/blog/2018/06/13/scala-213-collections.html)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
