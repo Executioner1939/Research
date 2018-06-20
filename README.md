@@ -97,5 +97,6 @@
 * [Why JWTs Suck as Session Tokens](https://dzone.com/articles/stop-using-jwts-as-session-tokens)
 * [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
 * [Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
+* [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.php)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
