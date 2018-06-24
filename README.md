@@ -100,5 +100,9 @@
 * [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.php)
 * [HEVC, VP9 and The Future of Video Codecs](https://headjack.io/blog/hevc-vp9-vp10-dalaa-thor-netvc-future-video-codecs/)
 * [How to navigate the deceptively simple Singleton pattern](https://www.javaworld.com/article/2073352/core-java/core-java-simply-singleton.html)
+* [Exploring Android P: Priority Buckets](https://medium.com/google-developer-experts/exploring-android-p-priority-buckets-d34d12059d36)
+* [Publishing your Android, Kotlin or Java library to mavenCentral](https://medium.com/@vanniktech/publishing-your-android-kotlin-or-java-library-to-mavencentral-e22f343b9659)
+* [How to migrate from Android-Job to WorkManager](https://articles.caster.io/android/how-to-migrate-from-android-job-to-workmanager/)
+* [Android Studio 3.2 Beta](https://android-developers.googleblog.com/2018/06/android-studio-3-2-beta.html)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
