@@ -98,5 +98,7 @@
 * [JSON Web Tokens vs. Session Cookies: In Practice](https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies)
 * [Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
 * [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.php)
+* [HEVC, VP9 and The Future of Video Codecs](https://headjack.io/blog/hevc-vp9-vp10-dalaa-thor-netvc-future-video-codecs/)
+* [How to navigate the deceptively simple Singleton pattern](https://www.javaworld.com/article/2073352/core-java/core-java-simply-singleton.html)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
