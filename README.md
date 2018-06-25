@@ -108,5 +108,6 @@
 * [How we implemented consistent hashing efficiently](https://blog.ably.io/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
 * [Apprentice Blog of the Week: Did Java Break My byte?](https://8thlight.com/blog/dave-torre/2014/09/10/did-java-break-my-byte.html)
 * [Unsigned Integer Arithmetic API now in JDK 8](https://blogs.oracle.com/darcy/unsigned-integer-arithmetic-api-now-in-jdk-8)
+* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
