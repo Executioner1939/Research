@@ -106,5 +106,7 @@
 * [Android Studio 3.2 Beta](https://android-developers.googleblog.com/2018/06/android-studio-3-2-beta.html)
 * [What Happens If Your JWT Is Stolen?](https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen)
 * [How we implemented consistent hashing efficiently](https://blog.ably.io/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
+* [Apprentice Blog of the Week: Did Java Break My byte?](https://8thlight.com/blog/dave-torre/2014/09/10/did-java-break-my-byte.html)
+* [Unsigned Integer Arithmetic API now in JDK 8](https://blogs.oracle.com/darcy/unsigned-integer-arithmetic-api-now-in-jdk-8)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
