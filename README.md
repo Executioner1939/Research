@@ -113,3 +113,11 @@
 * [Rank Hotness With Newton’s Law of Cooling](https://www.evanmiller.org/rank-hotness-with-newtons-law-of-cooling.html)
 ### Videos
 * [Critical .zip vulnerabilities](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
+## July
+* [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
+* [Extending RequestContext in akka-http for fun and profit](https://medium.com/iterators/extending-requestcontext-in-akka-http-for-fun-and-profit-ceb056964758)
+* [Arrows, Monads and Kleisli — Part I](https://medium.com/virtuslab/arrows-monads-and-kleisli-part-i-6c2a35c27a6e)
+* [Arrows, Monads and Kleisli — Part II](https://medium.com/virtuslab/arrows-monads-and-kleisli-part-ii-12ffd4da8bc9)
+* [5 steps of creating your very first Type Class in Scala](https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9)
+* [What I Learned Making My Own JIT Language](http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html)
+### Reading - Articles
