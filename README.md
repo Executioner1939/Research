@@ -125,3 +125,4 @@
 * [5 Coding Hacks to Reduce GC Overhead](https://blog.takipi.com/5-coding-hacks-to-reduce-gc-overhead/)
 * [The Trove Library: Using Primitive Collections for Performance](http://java-performance.info/primitive-types-collections-trove-library/)
 * [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
+* [Loop vs System.arraycopy](https://faisalferoz.wordpress.com/2007/12/24/loop-vs-systemarraycopy/)
