@@ -124,3 +124,4 @@
 * [5 Tips for Reducing Your Java Garbage Collection Overhead](https://blog.takipi.com/5-tips-for-reducing-your-java-garbage-collection-overhead/)
 * [5 Coding Hacks to Reduce GC Overhead](https://blog.takipi.com/5-coding-hacks-to-reduce-gc-overhead/)
 * [The Trove Library: Using Primitive Collections for Performance](http://java-performance.info/primitive-types-collections-trove-library/)
+* [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
