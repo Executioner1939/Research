@@ -121,3 +121,6 @@
 * [Arrows, Monads and Kleisli — Part II](https://medium.com/virtuslab/arrows-monads-and-kleisli-part-ii-12ffd4da8bc9)
 * [5 steps of creating your very first Type Class in Scala](https://medium.com/virtuslab/typeclasses-scala-be35c0ef0ee9)
 * [What I Learned Making My Own JIT Language](http://www.mikedrivendevelopment.com/2018/06/what-i-learned-making-my-own-jit.html)
+* [5 Tips for Reducing Your Java Garbage Collection Overhead](https://blog.takipi.com/5-tips-for-reducing-your-java-garbage-collection-overhead/)
+* [5 Coding Hacks to Reduce GC Overhead](https://blog.takipi.com/5-coding-hacks-to-reduce-gc-overhead/)
+* [The Trove Library: Using Primitive Collections for Performance](http://java-performance.info/primitive-types-collections-trove-library/)
