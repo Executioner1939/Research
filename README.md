@@ -127,3 +127,5 @@
 * [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
 * [Loop vs System.arraycopy](https://faisalferoz.wordpress.com/2007/12/24/loop-vs-systemarraycopy/)
 * [Urban Performance legends - Revisited](https://www.ibm.com/developerworks/library/j-jtp09275/)
+* [Bits of Shapeless part 1: HLists](http://enear.github.io/2016/04/05/bits-shapeless-1-hlists/)
+* [Bits of Shapeless part 2: Generic Derivation](http://enear.github.io/2016/09/27/bits-of-shapeless-2/)
