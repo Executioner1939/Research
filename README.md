@@ -138,3 +138,5 @@
 * [How not to be a mediocre developer!](https://hackernoon.com/how-not-to-be-a-mediocre-developer-c59a49f97fc5)
 * [Case Study - Solve Crosswords Puzzle](https://mostafa-asg.github.io/post/solve-hackerrank-crosswords-101/)
 * [Supervision & error handling in ZIO, Akka and Monix (part 3) + series summary](https://blog.softwaremill.com/supervision-error-handling-in-zio-akka-and-monix-part-3-series-summary-abe75f964c2a)
+* [Clarifications on the Incapsula Redis security report](http://antirez.com/news/118)
+* [Redis Lua scripting: several security vulnerabilities fixed](http://antirez.com/news/119)
