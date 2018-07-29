@@ -145,3 +145,5 @@
 * [Implicits, type classes, and extension methods, part 3: conversions and implicit-based patterns](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-3/)
 * [Implicits, type classes, and extension methods, part 4: understanding implicits](https://kubuszok.com/2018/implicits-type-classes-and-extension-methods-part-4/)
 * [Akka anti-patterns: Java serialization](https://manuel.bernhardt.io/2018/07/20/akka-anti-patterns-java-serialization/)
+* [Speeding up the HTTP service with Redis caching(https://blog.softwaremill.com/speeding-up-the-http-service-with-redis-caching-bb6980c1ae2d)
+* [Why Scala?(https://blog.softwaremill.com/why-scala-a6ac8c98c541
