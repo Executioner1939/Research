@@ -147,3 +147,5 @@
 * [Akka anti-patterns: Java serialization](https://manuel.bernhardt.io/2018/07/20/akka-anti-patterns-java-serialization/)
 * [Speeding up the HTTP service with Redis caching](https://blog.softwaremill.com/speeding-up-the-http-service-with-redis-caching-bb6980c1ae2d)
 * [Why Scala?](https://blog.softwaremill.com/why-scala-a6ac8c98c541)
+* [Windows Command-Line: Backgrounder](https://blogs.msdn.microsoft.com/commandline/2018/06/20/windows-command-line-backgrounder/)
+* [Windows Command-Line: The Evolution of the Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/06/27/windows-command-line-the-evolution-of-the-windows-command-line/)
