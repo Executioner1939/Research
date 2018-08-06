@@ -149,3 +149,6 @@
 * [Why Scala?](https://blog.softwaremill.com/why-scala-a6ac8c98c541)
 * [Windows Command-Line: Backgrounder](https://blogs.msdn.microsoft.com/commandline/2018/06/20/windows-command-line-backgrounder/)
 * [Windows Command-Line: The Evolution of the Windows Command-Line](https://blogs.msdn.microsoft.com/commandline/2018/06/27/windows-command-line-the-evolution-of-the-windows-command-line/)
+## August
+### Reading - Articles
+* [Basics of Futexes](https://eli.thegreenplace.net/2018/basics-of-futexes/)
