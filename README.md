@@ -152,3 +152,4 @@
 ## August
 ### Reading - Articles
 * [Basics of Futexes](https://eli.thegreenplace.net/2018/basics-of-futexes/)
+* [Lucene: The Good Parts](https://blog.parse.ly/post/1691/lucene/)
