@@ -154,3 +154,4 @@
 * [Basics of Futexes](https://eli.thegreenplace.net/2018/basics-of-futexes/)
 * [Lucene: The Good Parts](https://blog.parse.ly/post/1691/lucene/)
 * [Akka HTTP Request/Response Scope Operations, vs. Deferred Operations](https://richardimaoka.github.io/blog/akka-http-operation-scope/)
+* [The UX behind designing better forms](https://uxdesign.cc/the-ux-behind-designing-better-forms-d6ebe7a817d2)
