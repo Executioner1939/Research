@@ -155,3 +155,7 @@
 * [Lucene: The Good Parts](https://blog.parse.ly/post/1691/lucene/)
 * [Akka HTTP Request/Response Scope Operations, vs. Deferred Operations](https://richardimaoka.github.io/blog/akka-http-operation-scope/)
 * [The UX behind designing better forms](https://uxdesign.cc/the-ux-behind-designing-better-forms-d6ebe7a817d2)
+* [Why Scala?](https://blog.softwaremill.com/why-scala-a6ac8c98c541)
+* [Higher-kinded types: the difference between giving up, and moving forward](https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html)
+* [Keep your domain clean in Event Sourcing](https://blog.softwaremill.com/keep-your-domain-clean-in-event-sourcing-5db6ddc26fe4)
+* [Simple Scala Stack](https://blog.softwaremill.com/simple-scala-stack-70fc786132b5)
