@@ -159,3 +159,6 @@
 * [Higher-kinded types: the difference between giving up, and moving forward](https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html)
 * [Keep your domain clean in Event Sourcing](https://blog.softwaremill.com/keep-your-domain-clean-in-event-sourcing-5db6ddc26fe4)
 * [Simple Scala Stack](https://blog.softwaremill.com/simple-scala-stack-70fc786132b5)
+* [Machine Learning is Fun! Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+* [Machine Learning is Fun! Part 3](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
