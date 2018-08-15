@@ -166,3 +166,4 @@
 * [Shared State in Functional Programming](https://typelevel.org/blog/2018/06/07/shared-state-in-fp.html)
 * [Who implements the typeclass instance?](https://typelevel.org/blog/2017/12/20/who-implements-typeclass.html)
 * [Equivalence versus Equality](https://typelevel.org/blog/2017/04/02/equivalence-vs-equality.html)
+* [Generalized Algebraic Data Types in Scala](https://gist.github.com/smarter/2e1c564c83bae58c65b4f3f041bfb15f)
