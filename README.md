@@ -162,6 +162,7 @@
 * [Machine Learning is Fun! Part 1](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [Machine Learning is Fun! Part 2](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
 * [Machine Learning is Fun! Part 3](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721)
+* [Machine Learning is Fun! Part 4](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
 * [Typedapi](https://typelevel.org/blog/2018/06/15/typedapi.html)
 * [Shared State in Functional Programming](https://typelevel.org/blog/2018/06/07/shared-state-in-fp.html)
 * [Who implements the typeclass instance?](https://typelevel.org/blog/2017/12/20/who-implements-typeclass.html)
