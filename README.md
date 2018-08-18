@@ -174,3 +174,9 @@
 * [Generalized Algebraic Data Types in Scala](https://gist.github.com/smarter/2e1c564c83bae58c65b4f3f041bfb15f)
 * [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
 * [Saga, Compensate for failures in a terse and composable way](http://vectos.net/posts/2018-08-10-saga.html)
+* [This is How Google will Collapse](https://hackernoon.com/how-google-collapsed-b6ffa82198ee)
+* [A developer’s guide to web design for non-designers](https://medium.freecodecamp.org/a-developers-guide-to-web-design-for-non-designers-1f64ce28c38d)
+* [Why Developers Become Frustrated And Companies Can’t Find Talent](https://codeburst.io/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac)
+* [The Angry Programmer](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c)
+* [How To Prevent Coding “Heroes” From Destroying The Team](https://hackernoon.com/thoughts-on-software-development-heroes-5ec656c2e31a)
+
