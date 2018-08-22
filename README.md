@@ -179,4 +179,5 @@
 * [Why Developers Become Frustrated And Companies Can’t Find Talent](https://codeburst.io/why-developers-become-frustrated-and-companies-cant-find-talent-c4114d8b72ac)
 * [The Angry Programmer](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c)
 * [How To Prevent Coding “Heroes” From Destroying The Team](https://hackernoon.com/thoughts-on-software-development-heroes-5ec656c2e31a)
+* [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
 
