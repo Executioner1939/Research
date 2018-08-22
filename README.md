@@ -180,4 +180,4 @@
 * [The Angry Programmer](https://hackernoon.com/the-angry-programmer-52a93bfcbc3c)
 * [How To Prevent Coding “Heroes” From Destroying The Team](https://hackernoon.com/thoughts-on-software-development-heroes-5ec656c2e31a)
 * [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
-
+* [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
