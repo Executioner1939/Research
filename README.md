@@ -190,3 +190,8 @@
 * [Why you should know Monix](https://blog.scalac.io/2017/06/01/why-should-you-care-about-monix.html)
 * [How to review the code and not destroy the universe](https://blog.scalac.io/improving-code-reviews.html)
 * [Avoiding Unnecessary Object Instantiation with Specialized Generics](https://blog.scalac.io/2017/05/25/scala-specialization.html)
+* [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
+* [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
+* [Why DRY can be misleading](https://medium.com/@cummingsi1993/why-dry-can-be-misleading-c3986ad1240e)
+* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+* [Convolutional Neural Networks from the ground up](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
