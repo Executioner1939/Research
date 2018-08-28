@@ -189,3 +189,4 @@
 * [Reactive streams for RabbitMQ with Monix](https://blog.scalac.io/monix-rabbitmq-streams.html)
 * [Why you should know Monix](https://blog.scalac.io/2017/06/01/why-should-you-care-about-monix.html)
 * [How to review the code and not destroy the universe](https://blog.scalac.io/improving-code-reviews.html)
+* [Avoiding Unnecessary Object Instantiation with Specialized Generics](https://blog.scalac.io/2017/05/25/scala-specialization.html)
