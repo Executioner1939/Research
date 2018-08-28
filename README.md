@@ -185,3 +185,7 @@
 * [We fired our top talent. Best decision we ever made.](https://medium.freecodecamp.org/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [Service Mesh – A New Pattern, Not A New Technology?](https://konghq.com/blog/service-mesh-new-pattern-not-new-technology/)
+* [Improving Akka dispatchers](https://blog.scalac.io/improving-akka-dispatcher.html)
+* [Reactive streams for RabbitMQ with Monix](https://blog.scalac.io/monix-rabbitmq-streams.html)
+* [Why you should know Monix](https://blog.scalac.io/2017/06/01/why-should-you-care-about-monix.html)
+* [How to review the code and not destroy the universe](https://blog.scalac.io/improving-code-reviews.html)
