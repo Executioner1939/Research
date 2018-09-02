@@ -201,3 +201,4 @@
 ## September
 ### Reading - Articles
 * [Strings Are Evil](https://hackernoon.com/strings-are-evil-a803d05e5ce3)
+* [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
