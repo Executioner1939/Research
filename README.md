@@ -198,3 +198,6 @@
 * [Tail calls, @tailrec and trampolines](http://blog.richdougherty.com/2009/04/tail-calls-tailrec-and-trampolines.html)
 * [Tail Call Elimination in Scala Monads](https://apocalisp.wordpress.com/2011/10/26/tail-call-elimination-in-scala-monads/)
 * [Heterogeneous Lists and the Limits of the Java Type System](https://apocalisp.wordpress.com/2008/10/23/heterogeneous-lists-and-the-limits-of-the-java-type-system/)
+## September
+### Reading - Articles
+* [Strings Are Evil](https://hackernoon.com/strings-are-evil-a803d05e5ce3)
