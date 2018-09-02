@@ -202,3 +202,6 @@
 ### Reading - Articles
 * [Strings Are Evil](https://hackernoon.com/strings-are-evil-a803d05e5ce3)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
+* [Reactive Streams in Scala: Akka Streams vs Monix - Part 1](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-1/)
+* [Reactive Streams in Scala: Akka Streams vs Monix - Part 2](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-2/)
+* [Reactive Streams in Scala: Akka Streams vs Monix - Part 3](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/)
