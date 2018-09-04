@@ -212,5 +212,3 @@
 * [Understand Containers 2: Linux Namespaces](http://pierrchen.blogspot.com/2018/04/linux-namespaces-in-action-using-runc.html)
 * [Understand Containers 3: Linux cgroups](http://pierrchen.blogspot.com/2018/04/container-deep-dive-2-linux-cgroups.html)
 * [Understand Containers 4: Linux Capabilities](http://pierrchen.blogspot.com/2018/05/container-deep-dive-3-linux-capabilities.html)
-
-* []()
