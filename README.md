@@ -208,3 +208,9 @@
 * [Announcing Okio 2: Our fast + simple I/O library, Okio, has a new release that supports Kotlin](https://medium.com/square-corner-blog/okio-2-6f6c35149525)
 * [A major release just around the corner — meet Kotlin 1.3-M2](https://blog.jetbrains.com/kotlin/2018/08/kotlin-1-3-m2/)
 * [HTTP conditional requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests)
+* [Understand Containers 1: OCI Specification](http://pierrchen.blogspot.com/2018/04/oci-open-container-spec-that-rules-all.html)
+* [Understand Containers 2: Linux Namespaces](http://pierrchen.blogspot.com/2018/04/linux-namespaces-in-action-using-runc.html)
+* [Understand Containers 3: Linux cgroups](http://pierrchen.blogspot.com/2018/04/container-deep-dive-2-linux-cgroups.html)
+* [Understand Containers 4: Linux Capabilities](http://pierrchen.blogspot.com/2018/05/container-deep-dive-3-linux-capabilities.html)
+
+* []()
