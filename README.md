@@ -207,3 +207,4 @@
 * [Reactive Streams in Scala: Akka Streams vs Monix - Part 3](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/)
 * [Announcing Okio 2: Our fast + simple I/O library, Okio, has a new release that supports Kotlin](https://medium.com/square-corner-blog/okio-2-6f6c35149525)
 * [A major release just around the corner — meet Kotlin 1.3-M2](https://blog.jetbrains.com/kotlin/2018/08/kotlin-1-3-m2/)
+* [HTTP conditional requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Conditional_requests)
