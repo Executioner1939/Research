@@ -216,3 +216,4 @@
 * [Are Scala Futures the past?](https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001)
 * [Typeclass Proposal](https://github.com/LukaJCB/typeclass-proposal)
 * [Http4s error handling with Cats Meow MTL](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
+* [Markov Chains](http://setosa.io/ev/markov-chains/)
