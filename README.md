@@ -212,3 +212,7 @@
 * [Understand Containers 2: Linux Namespaces](http://pierrchen.blogspot.com/2018/04/linux-namespaces-in-action-using-runc.html)
 * [Understand Containers 3: Linux cgroups](http://pierrchen.blogspot.com/2018/04/container-deep-dive-2-linux-cgroups.html)
 * [Understand Containers 4: Linux Capabilities](http://pierrchen.blogspot.com/2018/05/container-deep-dive-3-linux-capabilities.html)
+* [How to translate your API with Shapeless](https://medium.com/azimolabs/how-to-translate-your-api-with-shapeless-2464337d31c0)
+* [Are Scala Futures the past?](https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001)
+* [Typeclass Proposal](https://github.com/LukaJCB/typeclass-proposal)
+* [Http4s error handling with Cats Meow MTL](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
