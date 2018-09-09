@@ -217,3 +217,7 @@
 * [Typeclass Proposal](https://github.com/LukaJCB/typeclass-proposal)
 * [Http4s error handling with Cats Meow MTL](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
 * [Markov Chains](http://setosa.io/ev/markov-chains/)
+* [Gang of Four Patterns in a Functional Light: Part 1](https://www.voxxed.com/2016/04/gang-four-patterns-functional-light-part-1/)
+* [Gang of Four Patterns in a Functional Light: Part 2](https://www.voxxed.com/2016/05/gang-four-patterns-functional-light-part-2/)
+* [Gang of Four Patterns in a Functional Light: Part 3](https://www.voxxed.com/2016/05/gang-four-patterns-functional-light-part-3/)
+* [Gang of Four Patterns in a Functional Light: Part 4](https://www.voxxed.com/2016/05/gang-four-patterns-functional-light-part-4/)
