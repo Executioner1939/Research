@@ -232,4 +232,5 @@
 * [Chain – Replacing the List Monoid](https://typelevel.org/blog/2018/09/04/chain-replacing-the-list-monoid.html)
 * [Kinds of Types in Scala, Part 1: Types, what are they?](https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/)
 * [Kinds of Types in Scala, Part 2: Take Type, return Type or Type parameters](https://kubuszok.com/2018/kinds-of-types-in-scala-part-2/)
-* [Kinds of Types in Scala, Part 3: Embedding some more info in a Type](https://kubuszok.com/2018/kinds-of-types-in-scala-part-3/)        
+* [Kinds of Types in Scala, Part 3: Embedding some more info in a Type](https://kubuszok.com/2018/kinds-of-types-in-scala-part-3/)
+* [What the Heck is OAuth?](https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth)
