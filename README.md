@@ -238,3 +238,4 @@
 * [Traversing Object Graph with Shapeless (and Why You Should Write the Same Code Twice)](https://medium.com/@shanielh/traversing-object-graph-with-shapeless-and-why-you-should-write-the-same-code-twice-96fc09bc5be9)
 * [New pretty id generator in scala-id-generator](https://blog.softwaremill.com/new-pretty-id-generator-in-scala-commons-39b0fc6b6210)
 * [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
+* [Monad Error for the rest of us](https://www.codacy.com/blog/monad-error-for-the-rest-of-us/)
