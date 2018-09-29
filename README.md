@@ -241,3 +241,6 @@
 * [Monad Error for the rest of us](https://www.codacy.com/blog/monad-error-for-the-rest-of-us/)
 * [Towards 3B time-series data points per day: Why DNSFilter replaced InfluxDB with TimescaleDB](https://blog.dnsfilter.com/3-billion-time-series-data-points-dnsfilter-replaced-influxdb-with-timescaledb-d9f827702f8b)
 * [TimescaleDB vs. InfluxDB: purpose built differently for time-series data](https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877)
+* [How Spam Filtering Works: From SPF to DKIM to Blacklists](https://deliciousbrains.com/how-spam-filters-works/)
+* [GeoMapping and the Travelling Salesman Problem](https://crondev.blog/2018/08/17/geomapping-solution-by-solving-the-travelling-salesman-problem/)
+* [https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/](Java's new Z Garbage Collector (ZGC) is very exciting)
