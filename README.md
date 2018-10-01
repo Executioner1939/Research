@@ -246,5 +246,7 @@
 * [https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/](Java's new Z Garbage Collector (ZGC) is very exciting)
 * [Scala Wars: FP-OOP vs FP](http://degoes.net/articles/fpoop-vs-fp)
 * [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
+## October
+### Reading - Articles
 * [Cryptography—What Is It and How Does It Work?](https://medium.com/@ahjuice/cryptography-what-is-it-and-how-does-it-work-2a21a730d694)
 * [Git Workflows](https://medium.com/@jurtzmarcel/git-workflows-cb0c023ca88)
