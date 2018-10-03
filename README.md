@@ -255,3 +255,4 @@
 * [90 New Features and APIs in JDK 11 (Part 1)](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11)
 * [90 New Features and APIs in JDK 11 (Part 2)](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11-part-2)
 * [JDK 12 News: Switch Expressions and Raw String Literals](https://dzone.com/articles/jdk-12-news-13-september-2018)
+* [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md)
