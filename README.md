@@ -243,7 +243,7 @@
 * [TimescaleDB vs. InfluxDB: purpose built differently for time-series data](https://blog.timescale.com/timescaledb-vs-influxdb-for-time-series-data-timescale-influx-sql-nosql-36489299877)
 * [How Spam Filtering Works: From SPF to DKIM to Blacklists](https://deliciousbrains.com/how-spam-filters-works/)
 * [GeoMapping and the Travelling Salesman Problem](https://crondev.blog/2018/08/17/geomapping-solution-by-solving-the-travelling-salesman-problem/)
-* [https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/](Java's new Z Garbage Collector (ZGC) is very exciting)
+* [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
 * [Scala Wars: FP-OOP vs FP](http://degoes.net/articles/fpoop-vs-fp)
 * [Data Modeling in FP vs OOP](http://degoes.net/articles/fp-vs-oop-part1)
 ## October
