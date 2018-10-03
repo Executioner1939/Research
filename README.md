@@ -252,3 +252,4 @@
 * [Git Workflows](https://medium.com/@jurtzmarcel/git-workflows-cb0c023ca88)
 * [Electron is a hulking monstrosity of a WORA framework, and it needs to be replaced.](https://medium.com/@boundarybreaker/electron-is-a-hulking-monstrosity-of-a-wora-framework-and-it-needs-to-be-replaced-25e9d849b0e)
 * [What should replace Electron as a WORA framework?](https://medium.com/@boundarybreaker/what-should-replace-electron-as-a-wora-framework-911d969eddaa)
+* [90 New Features and APIs in JDK 11 (Part 1)](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11)
