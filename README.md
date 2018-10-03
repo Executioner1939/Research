@@ -256,5 +256,7 @@
 * [90 New Features and APIs in JDK 11 (Part 2)](https://dzone.com/articles/90-new-features-and-apis-in-jdk-11-part-2)
 * [JDK 12 News: Switch Expressions and Raw String Literals](https://dzone.com/articles/jdk-12-news-13-september-2018)
 * [Falsehoods Programmers Believe About Phone Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md)
+* [A Guide To OAuth 2.0 Grants](https://alexbilbie.com/guide-to-oauth-2-grants/)
+* [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 ### Videos
 * [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
