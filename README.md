@@ -265,5 +265,6 @@
 * [Using Facebook Login with Existing Login Systems](https://developers.facebook.com/docs/facebook-login/multiple-providers)
 * [Greedy, Brittle, Opaque and Shallow: The Downsides to Deep Learning](https://www.wired.com/story/greedy-brittle-opaque-and-shallow-the-downsides-to-deep-learning/)
 * [Contravariant Functors — An Intuition](http://igstan.ro/posts/2013-10-31-contravariant-functors-an-intuition.html)
+* [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 ### Videos
 * [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
