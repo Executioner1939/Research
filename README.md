@@ -267,5 +267,10 @@
 * [Contravariant Functors — An Intuition](http://igstan.ro/posts/2013-10-31-contravariant-functors-an-intuition.html)
 * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 * [Approaches to JSON internationalisation (i18n)](https://www.drzon.net/posts/approaches-to-json-internationalisation-i18n/)
+* [Monads for functional programming in scala](http://daniberg.com/2018/10/02/monads-for-fp-in-scala.html)
+* [Disambiguating 'this' in Scala, or what does 'self =>' mean?](http://enear.github.io/2018/10/08/self-arrow/)
+* [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
+* [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
+* [Anatomy of a type class](http://geekocephale.com/blog/2018/10/05/typeclasses)
 ### Videos
 * [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
