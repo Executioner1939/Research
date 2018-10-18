@@ -272,5 +272,8 @@
 * [Anatomy of functional programming](http://geekocephale.com/blog/2018/10/08/fp)
 * [Anatomy of an algebra](http://geekocephale.com/blog/2018/10/06/algebras)
 * [Anatomy of a type class](http://geekocephale.com/blog/2018/10/05/typeclasses)
+* [Raytracing](https://tmcw.github.io/literate-raytracer/)
+* [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+* [Lessons learned from creating a rich-text editor with real-time collaboration](https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/)
 ### Videos
 * [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
