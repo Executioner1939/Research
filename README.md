@@ -275,5 +275,6 @@
 * [Raytracing](https://tmcw.github.io/literate-raytracer/)
 * [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 * [Lessons learned from creating a rich-text editor with real-time collaboration](https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/)
+* [Digging into Docker layers](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f948ed612)
 ### Videos
 * [OAuth 2.0 and OpenID Connect (In Plain English)](https://www.youtube.com/watch?v=996OiexHze0)
