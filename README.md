@@ -284,3 +284,4 @@
 ## November
 ### Reading - Articles
 * [The CIA just lost control of its hacking arsenal. Here’s what you need to know.](https://medium.freecodecamp.org/the-cia-just-lost-control-of-its-hacking-arsenal-heres-what-you-need-to-know-ea69fc1ce38c)
+* [Docker COPY: Dockerfile best practices](https://medium.com/the-code-review/docker-copy-dockerfile-best-practices-503704bee69f)
