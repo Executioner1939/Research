@@ -287,3 +287,6 @@
 * [Docker COPY: Dockerfile best practices](https://medium.com/the-code-review/docker-copy-dockerfile-best-practices-503704bee69f)
 * [Do VPNs Actually Protect Your Privacy?](https://medium.com/datadriveninvestor/do-vpns-actually-protect-your-privacy-5f98a9cec90a)
 * [Thread Pools](https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c)
+* [Explore Witnesses as an Alternative to Implicits](https://github.com/lampepfl/dotty/pull/5458)
+* [Immutable State in Real World](https://medium.com/@wiemzin/immutable-state-in-real-world-e2a3eef2f1b4)
+* [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a)
