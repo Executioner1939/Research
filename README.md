@@ -292,3 +292,5 @@
 * [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a)
 * [5 themes for Scala programming in 2018](https://medium.com/skills-matter/5-themes-for-scala-in-2018-130148776fd8)
 * [Kubernetes Chaos Engineering: Lessons Learned — Part 1](https://medium.com/skills-matter/kubernetes-chaos-engineering-lessons-learned-part-1-88c592cc670a)
+### Videos
+* [Visualising Software Architecture with the C4 Model](https://www.youtube.com/watch?v=1zYK615kepE)
