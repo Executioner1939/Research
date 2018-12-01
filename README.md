@@ -294,3 +294,6 @@
 * [Kubernetes Chaos Engineering: Lessons Learned — Part 1](https://medium.com/skills-matter/kubernetes-chaos-engineering-lessons-learned-part-1-88c592cc670a)
 ### Videos
 * [Visualising Software Architecture with the C4 Model](https://www.youtube.com/watch?v=1zYK615kepE)
+## December
+### Reading - Articles
+* [Functors and Applicatives](https://hackernoon.com/functors-and-applicatives-b9af535b1440)
