@@ -297,3 +297,4 @@
 ## December
 ### Reading - Articles
 * [Functors and Applicatives](https://hackernoon.com/functors-and-applicatives-b9af535b1440)
+* [Why x86 won’t survive](https://medium.com/datadriveninvestor/why-x86-wont-survive-220f94c6c5ef)
