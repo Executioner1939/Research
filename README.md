@@ -298,3 +298,7 @@
 ### Reading - Articles
 * [Functors and Applicatives](https://hackernoon.com/functors-and-applicatives-b9af535b1440)
 * [Why x86 won’t survive](https://medium.com/datadriveninvestor/why-x86-wont-survive-220f94c6c5ef)
+* [GraphQL: A Retrospective](https://verve.co/engineering/graphql-a-retrospective/)
+* [At 22 years old, Postgres might just be the most advanced database yet](https://arcentry.com/blog/postgres-might-just-be-the-most-advanced-database-ever/#)
+* [Concurrency Glossary](https://slikts.github.io/concurrency-glossary/?id=scheduling-flow-control-temporal-composition)
+* [HTTP/3 Explained](https://http3-explained.haxx.se/en/)
