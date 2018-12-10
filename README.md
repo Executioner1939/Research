@@ -302,3 +302,5 @@
 * [At 22 years old, Postgres might just be the most advanced database yet](https://arcentry.com/blog/postgres-might-just-be-the-most-advanced-database-ever/#)
 * [Concurrency Glossary](https://slikts.github.io/concurrency-glossary/?id=scheduling-flow-control-temporal-composition)
 * [HTTP/3 Explained](https://http3-explained.haxx.se/en/)
+* [Scrap Your Type Class Boilerplate (1/2)](http://aakashns.github.io/better-type-class-2.html)
+* [Scrap Your Type Class Boilerplate (2/2)](http://aakashns.github.io/better-type-class-2.html)
