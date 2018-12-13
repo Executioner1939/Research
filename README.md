@@ -304,3 +304,6 @@
 * [HTTP/3 Explained](https://http3-explained.haxx.se/en/)
 * [Scrap Your Type Class Boilerplate (1/2)](http://aakashns.github.io/better-type-class.html)
 * [Scrap Your Type Class Boilerplate (2/2)](http://aakashns.github.io/better-type-class-2.html)
+* [The Contravariant Functor!](https://medium.com/@stephaneledorze/the-contravariant-functor-a7ae93e2eae0)
+* [Good code is Short, Simple, and Robust](https://medium.com/swlh/good-code-is-short-simple-and-robust-52b0a0abf2e8)
+* [How To Handle Errors On JVM Faster](https://medium.com/@alexmaisiura/how-to-handle-errors-on-jvm-faster-a1449020739)
