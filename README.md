@@ -308,3 +308,6 @@
 * [Good code is Short, Simple, and Robust](https://medium.com/swlh/good-code-is-short-simple-and-robust-52b0a0abf2e8)
 * [How To Handle Errors On JVM Faster](https://medium.com/@alexmaisiura/how-to-handle-errors-on-jvm-faster-a1449020739)
 * [Understanding Contramap](http://healsjnr.blogspot.com/2015/12/understanding-contramap.html)
+* [TimescaleDB 1.1 performance optimizations and PG11 Support](https://blog.timescale.com/timescaledb1-1-postgresql11-support-open-source-d108b2b244c3)
+* [The F-words: Functor and Friends](https://kubuszok.com/2018/the-f-words-functors-and-friends/)
+* [Anatomy of a Scala quirk](https://blog.buildo.io/anatomy-of-a-scala-quirk-b8c086b56423)
