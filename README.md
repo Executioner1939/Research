@@ -311,3 +311,4 @@
 * [TimescaleDB 1.1 performance optimizations and PG11 Support](https://blog.timescale.com/timescaledb1-1-postgresql11-support-open-source-d108b2b244c3)
 * [The F-words: Functor and Friends](https://kubuszok.com/2018/the-f-words-functors-and-friends/)
 * [Anatomy of a Scala quirk](https://blog.buildo.io/anatomy-of-a-scala-quirk-b8c086b56423)
+* [Consider Yourself a Developer? You Should Solve the Project Euler Problems](https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c)
