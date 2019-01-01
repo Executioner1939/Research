@@ -314,5 +314,6 @@
 * [Consider Yourself a Developer? You Should Solve the Project Euler Problems](https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c)
 * [Using jlink to Build Java Runtimes for non-Modular Applications](https://medium.com/azulsystems/using-jlink-to-build-java-runtimes-for-non-modular-applications-9568c5e70ef4)
 ## January
+### Reading - Articles
 * [You don’t understand your Software Engineers](https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a)
 * [Why Open Source Failed](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
