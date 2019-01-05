@@ -317,5 +317,6 @@
 ### Reading - Articles
 * [You don’t understand your Software Engineers](https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a)
 * [Why Open Source Failed](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
+* [Java Money and the Currency API](https://www.baeldung.com/java-money-and-currency)
 ### Videos
 * [How to Focus Intensely](https://www.youtube.com/watch?v=wfKv2qG8d_w)
