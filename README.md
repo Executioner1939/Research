@@ -319,5 +319,6 @@
 * [Why Open Source Failed](https://medium.com/@johnmark/why-open-source-failed-6cae5d6a9f6)
 * [Java Money and the Currency API](https://www.baeldung.com/java-money-and-currency)
 * [Builder Pattern in Scala with Phantom Types](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
+* [Scala Best Practices](https://nrinaudo.github.io/scala-best-practices/)
 ### Videos
 * [How to Focus Intensely](https://www.youtube.com/watch?v=wfKv2qG8d_w)
