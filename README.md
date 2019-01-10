@@ -320,5 +320,6 @@
 * [Java Money and the Currency API](https://www.baeldung.com/java-money-and-currency)
 * [Builder Pattern in Scala with Phantom Types](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
 * [Scala Best Practices](https://nrinaudo.github.io/scala-best-practices/)
+* [ECDSA: The digital signature algorithm of a better internet](https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/)
 ### Videos
 * [How to Focus Intensely](https://www.youtube.com/watch?v=wfKv2qG8d_w)
