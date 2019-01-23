@@ -322,6 +322,7 @@
 * [Scala Best Practices](https://nrinaudo.github.io/scala-best-practices/)
 * [ECDSA: The digital signature algorithm of a better internet](https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet/)
 * [Why are we getting Streams in Redis?](https://blog.logrocket.com/why-are-we-getting-streams-in-redis-8c36498aaac5)
+* [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)
 ### Videos
 * [How to Focus Intensely](https://www.youtube.com/watch?v=wfKv2qG8d_w)
 * [DevNation Live | A Deep Dive into Keycloak](https://www.youtube.com/watch?v=ZxpY_zZ52kU&feature=youtu.be)
