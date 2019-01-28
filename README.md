@@ -325,6 +325,8 @@
 * [The TypeScript Tax](https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b)
 * [‘The Art of Computer Programming’ by Donald Knuth](https://medium.freecodecamp.org/the-art-of-computer-programming-by-donald-knuth-82e275c8764f)
 * [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
+* [The End Is Near for Mobile Apps - Part 1](https://medium.com/s/story/mobile-apps-will-disappear-soon-4b4e54f46eb8)
+* [The End is Near for Mobile Apps — Part 2](https://medium.com/predict/the-end-is-near-for-mobile-apps-part-2-926ec187e435)
 ### Videos
 * [How to Focus Intensely](https://www.youtube.com/watch?v=wfKv2qG8d_w)
 * [DevNation Live | A Deep Dive into Keycloak](https://www.youtube.com/watch?v=ZxpY_zZ52kU&feature=youtu.be)
