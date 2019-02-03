@@ -331,3 +331,6 @@
 ### Videos
 * [How to Focus Intensely](https://www.youtube.com/watch?v=wfKv2qG8d_w)
 * [DevNation Live | A Deep Dive into Keycloak](https://www.youtube.com/watch?v=ZxpY_zZ52kU&feature=youtu.be)
+## February
+### Reading - Articles
+* [Purely functional Parallelism in Scala](https://medium.com/@wiemzin/purely-functional-parallelism-in-scala-37ecb1e9999)
