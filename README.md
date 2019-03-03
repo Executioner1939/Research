@@ -338,3 +338,7 @@
 * [Scheduling in Kubernetes, Part 1: Node Affinity](https://medium.com/kokster/scheduling-in-kubernetes-part-1-node-affinity-b77c97556424)
 * [Scheduling in Kubernetes, Part 2: Pod Affinity](https://medium.com/kokster/scheduling-in-kubernetes-part-2-pod-affinity-c2b217312ae1)
 * [Apache Kafka and MQTT: End-to-End IoT Integration](https://dzone.com/articles/apache-kafka-mqtt-end-to-end-iot-integration-githu)
+## March
+### Reading - Articles
+* [What Is Project Valhalla?](https://dzone.com/articles/what-is-project-valhalla)
+* [Project Valhalla: A First Look at L-World Value Types](https://dzone.com/articles/project-valhalla-a-first-look-at-l-world-value-typ?fromrel=true)
