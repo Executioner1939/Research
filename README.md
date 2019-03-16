@@ -343,4 +343,4 @@
 * [What Is Project Valhalla?](https://dzone.com/articles/what-is-project-valhalla)
 * [Project Valhalla: A First Look at L-World Value Types](https://dzone.com/articles/project-valhalla-a-first-look-at-l-world-value-typ?fromrel=true)
 * [The Tao of Ticketing](https://tech.ticketmaster.com/2014/07/26/the-tao-of-ticketing/)
-* [User Managed Access — UMA 2.0](https://medium.com/@dewni.matheesha/user-managed-access-uma-2-0-bcecb1d535b3)
+* [User Managed Access - UMA 2.0](https://medium.com/@dewni.matheesha/user-managed-access-uma-2-0-bcecb1d535b3)
