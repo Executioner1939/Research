@@ -344,3 +344,6 @@
 * [Project Valhalla: A First Look at L-World Value Types](https://dzone.com/articles/project-valhalla-a-first-look-at-l-world-value-typ?fromrel=true)
 * [The Tao of Ticketing](https://tech.ticketmaster.com/2014/07/26/the-tao-of-ticketing/)
 * [User Managed Access - UMA 2.0](https://medium.com/@dewni.matheesha/user-managed-access-uma-2-0-bcecb1d535b3)
+* [Divide & Encode: How to Encode Videos Blazingly Fast](https://tech.showmax.com/2019/01/divide-encode-1/)
+* [Building a scalable, highly reliable, asynchronous user service](https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/)
+* [Big Data Storage Wars: Ceph vs Gluster](https://technologyadvice.com/blog/information-technology/ceph-vs-gluster/)
