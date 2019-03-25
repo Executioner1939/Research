@@ -347,3 +347,4 @@
 * [Divide & Encode: How to Encode Videos Blazingly Fast](https://tech.showmax.com/2019/01/divide-encode-1/)
 * [Building a scalable, highly reliable, asynchronous user service](https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/)
 * [Big Data Storage Wars: Ceph vs Gluster](https://technologyadvice.com/blog/information-technology/ceph-vs-gluster/)
+* [The Agile Crisis — a Primer](https://medium.com/@wischweh/the-agile-crisis-2016-9fb1c2f52af5)
