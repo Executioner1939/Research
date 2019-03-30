@@ -348,3 +348,4 @@
 * [Building a scalable, highly reliable, asynchronous user service](https://tech.showmax.com/2018/12/building-scalable-highly-reliable-asynchronous-user-service/)
 * [Big Data Storage Wars: Ceph vs Gluster](https://technologyadvice.com/blog/information-technology/ceph-vs-gluster/)
 * [The Agile Crisis — a Primer](https://medium.com/@wischweh/the-agile-crisis-2016-9fb1c2f52af5)
+* [Neotypes (Part 1): Akka-http + neo4j](https://medium.com/neo4j/neotypes-part-1-akka-http-neo4j-6cab38d077d4)
