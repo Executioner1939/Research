@@ -354,5 +354,6 @@
 * [Journey Planning… And Why I Love Cypher](https://neo4j.com/blog/journey-planning-why-i-love-cypher/)
 * [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
 * [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
+* [Phone numbers must die](https://www.devever.net/~hl/e164)
 ### Videos
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
