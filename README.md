@@ -357,3 +357,4 @@
 * [Phone numbers must die](https://www.devever.net/~hl/e164)
 ### Videos
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+* [Microservices and Rules Engines – a blast from the past](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/BRK03)
