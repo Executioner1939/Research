@@ -360,3 +360,12 @@
 ### Videos
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [Microservices and Rules Engines – a blast from the past](https://channel9.msdn.com/Events/NDC/NDC-Oslo-2017/BRK03)
+## May
+### Reading - Articles
+* [Bet you can’t solve this Google interview question.](https://medium.freecodecamp.org/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee)
+* [Using 47 Degree's Fetch library with ZIO](http://justinhj.github.io/2019/05/05/using-47degs-fetch-with-zio.html)
+* [Solving the Rubik's Cube with Group Theory and Functional Programming](https://www.inner-product.com/posts/rubiks-intro/)
+* [Permutations as Functions](https://www.inner-product.com/posts/permutation-functions/)
+* [The Group Typeclass](https://www.inner-product.com/posts/define-group/)
+* [For Better Computing, Liberate CPUs From Garbage Collection](https://spectrum.ieee.org/tech-talk/computing/hardware/this-little-device-relieves-a-cpu-from-its-garbage-collection-duties/)
+* [Faster script loading with BinaryAST?](https://blog.cloudflare.com/binary-ast/)
