@@ -369,3 +369,7 @@
 * [The Group Typeclass](https://www.inner-product.com/posts/define-group/)
 * [For Better Computing, Liberate CPUs From Garbage Collection](https://spectrum.ieee.org/tech-talk/computing/hardware/this-little-device-relieves-a-cpu-from-its-garbage-collection-duties/)
 * [Faster script loading with BinaryAST?](https://blog.cloudflare.com/binary-ast/)
+## June
+### Reading - Articles
+* [Saga Pattern | How to implement business transactions using Microservices – Part I](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/)
+* [Saga Pattern | How to implement business transactions using Microservices – Part II](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/)
