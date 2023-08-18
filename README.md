@@ -373,3 +373,7 @@
 ### Reading - Articles
 * [Saga Pattern | How to implement business transactions using Microservices – Part I](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/)
 * [Saga Pattern | How to implement business transactions using Microservices – Part II](https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part-2/)
+
+## August - 2023
+### Reading - Articles
+* [Sending Millions of Webhooks in a smart way](https://medium.com/insiderengineering/sending-millions-of-webhooks-in-a-smart-way-f8b48fe2a5d)
